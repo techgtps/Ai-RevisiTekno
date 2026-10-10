@@ -1,0 +1,6 @@
+{
+  "name": "Revisitekno AI",
+  "description": "Asisten kreatif AI personal untuk kreator konten YouTube teknologi: ide, perencana video, studio skrip, voice studio TTS, thumbnail lab, dan pustaka konten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
